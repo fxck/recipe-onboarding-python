@@ -1,5 +1,5 @@
 # Zerops Hello World Python
-.
+
 ```yaml
 project:
   name: zerops-hello-world-python
